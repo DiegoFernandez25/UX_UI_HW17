@@ -1,20 +1,21 @@
 body {
     background-color: cadetblue;
 }
-<link>
-.display-inlineblock {
-    vertical-align:top
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
 }
-.logo {
+    
+.inline-blockandlogo {
     width: 23%;
     padding: 1%;
     text-align: center;
 }
-.nav {
+nav {
     width: 73%;
     padding: 1%;
 }
-.ul {
+ul {
     width: 50%;
     margin-left: auto;
 }
@@ -26,10 +27,7 @@ body {
     width: 500px;
     margin:0 auto
 }
-.footer {
+footer {
     background-color: #373738;
-}
-.ul {
-    inline-block:
-    vertical-align: top
+    padding-right: 500px;
 }
