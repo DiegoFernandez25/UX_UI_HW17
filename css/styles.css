@@ -1,18 +1,15 @@
 body {
-    background-color: cadetblue;
+    background-color: blue
 }
 
 .inline-block {
     display: inline-block;
     vertical-align: top;
-   
 }
     
 .logo {
     width: 23%;
     padding: 1%;
-    
-
 }
     
 nav {
@@ -23,6 +20,8 @@ nav {
 ul {
     width: 50%;
     margin-left: auto;
+    background-color: #373738;
+    padding: 20px;
 }
 .logo img {
     width: 150px;
@@ -37,12 +36,12 @@ ul {
   
   .content {
     width: 500px;
-    margin: 0 auto;
+    padding: 20px;
   }
   
   footer {
     background-color: #373738;
-    padding: 25px;
+    padding: 20px;
   }
   
   ul {
